@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.regexp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/AccessStaticVariables.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/ArrayList.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/AssignPrimitives.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/AutoBoxing.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Casting.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Inheritence2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/InnerLoops.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/InstanceOf.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/LoopTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PassingClassesThrough/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/StaticInitilizer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/StringBuilderExercise.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/TryCatch.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/TsetCastingWithInterfaces.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/WrapperClasses.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/exceptions/Test2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/exceptions/ThrowingExceptions.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/initializerblocks/TestClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/instanceOf/InstanceOf.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/instance_of/InstanceOf.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/loop.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/passingInheritanceParameters.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../apis/src/main/java/com/paddypower/automation/ecommerce/apis/casino/common/CasinoRequestParameters.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pp-testcases-parent/testcases/src/main/java/com/paddypower/automation/dsl/casino/instant/mobile/app/businesslogic/Generic.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pp-testcases-parent/testcases/src/main/java/com/paddypower/automation/dsl/games/mobile/common/apicalls/ApiCalls.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pp-testcases-parent/testcases/src/main/java/com/paddypower/automation/dsl/games/mobile/common/businesslogic/Common.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pp-testcases-parent/testcases/src/main/java/com/paddypower/automation/dsl/games/mobile/common/businesslogic/CurtainNav.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pp-testcases-parent/testcases/src/main/java/com/paddypower/automation/dsl/games/mobile/common/businesslogic/GamesConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pp-testcases-parent/testcases/src/main/java/com/paddypower/automation/dsl/games/mobile/common/enums/GamesChannels.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pp-testcases-parent/testcases/src/main/java/com/paddypower/automation/dsl/games/mobile/common/enums/MacPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pp-testcases-parent/testcases/src/main/java/com/paddypower/automation/dsl/games/mobile/common/enums/MobileGamesPages.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pp-testcases-parent/testcases/src/main/java/com/paddypower/automation/dsl/games/mobile/common/enums/RegulatoryPages.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pp-testcases-parent/testcases/src/main/java/com/paddypower/automation/dsl/games/mobile/common/objects/CommonObjects.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pp-testcases-parent/testcases/src/main/java/com/paddypower/automation/dsl/games/mobile/common/objects/CurtainNavObjects.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pp-testcases-parent/testcases/src/main/java/com/paddypower/automation/dsl/games/mobile/gamestabletapp/businesslogic/GameInfoPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pp-testcases-parent/testcases/src/main/java/com/paddypower/automation/dsl/games/mobile/gamestabletapp/businesslogic/Generic.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pp-testcases-parent/testcases/src/main/java/com/paddypower/automation/dsl/games/mobile/gamestabletapp/businesslogic/LoginPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pp-testcases-parent/testcases/src/main/java/com/paddypower/automation/dsl/games/mobile/gamestabletapp/objects/LoginPageObjects.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pp-testcases-parent/testcases/src/main/java/com/paddypower/automation/dsl/games/mobile/mobilegamesapp/businesslogic/CategoryPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pp-testcases-parent/testcases/src/main/java/com/paddypower/automation/dsl/games/mobile/mobilegamesapp/businesslogic/GameInfoPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pp-testcases-parent/testcases/src/main/java/com/paddypower/automation/dsl/games/mobile/mobilegamesapp/businesslogic/Generic.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pp-testcases-parent/testcases/src/main/java/com/paddypower/automation/dsl/games/mobile/mobilegamesapp/businesslogic/HomePageCategoryBar.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pp-testcases-parent/testcases/src/main/java/com/paddypower/automation/dsl/games/mobile/mobilegamesapp/businesslogic/PromoInfoPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pp-testcases-parent/testcases/src/main/java/com/paddypower/automation/dsl/games/mobile/mobilegamesapp/businesslogic/TransactionHistory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pp-testcases-parent/testcases/src/main/java/com/paddypower/automation/dsl/realtime/MarketMappings.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pp-testcases-parent/testcases/src/main/java/com/paddypower/automation/jbehave/candidatesteps/games/mobilegames/common/GivenSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pp-testcases-parent/testcases/src/main/java/com/paddypower/automation/jbehave/candidatesteps/games/mobilegames/common/ThenSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pp-testcases-parent/testcases/src/main/java/com/paddypower/automation/jbehave/candidatesteps/games/mobilegames/common/WhenSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pp-testcases-parent/testcases/src/main/java/com/paddypower/automation/jbehave/candidatesteps/games/mobilegames/mobilegamesapp/GivenSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pp-testcases-parent/testcases/src/main/java/com/paddypower/automation/jbehave/candidatesteps/games/mobilegames/mobilegamesapp/ThenSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pp-testcases-parent/testcases/src/main/java/com/paddypower/automation/jbehave/candidatesteps/games/mobilegames/mobilegamesapp/WhenSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pp-testcases-parent/testcases/src/main/java/com/paddypower/automation/jbehave/candidatesteps/games/mobilegames/mobilegamestabletapp/GivenSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pp-testcases-parent/testcases/src/main/java/com/paddypower/automation/jbehave/candidatesteps/games/mobilegames/mobilegamestabletapp/ThenSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pp-testcases-parent/testcases/src/main/java/com/paddypower/automation/jbehave/candidatesteps/games/mobilegames/mobilegamestabletapp/WhenSteps.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../pp-testcases-parent/testcases/src/main/java/com/paddypower/automation/sandbox/mac/TutorialTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
+
