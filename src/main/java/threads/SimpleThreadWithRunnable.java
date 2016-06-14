@@ -7,7 +7,7 @@ public class SimpleThreadWithRunnable {
 
     public static void main(String[] args) {
 
-        Counter c = new Counter();
+        final Counter c = new Counter();
 
         Thread t = new Thread(new Runnable() {
             @Override
